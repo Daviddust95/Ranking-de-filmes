@@ -5,6 +5,7 @@ Existem duas formar de acessar o programa, sendo a primeira, pelo nevegador, sem
 A segunda forma é instalando o Python e a biblioteca Requests, basta executar o seguinte comando no terminal:
 
 Pip install python
+
 Pip install requests
 
 
