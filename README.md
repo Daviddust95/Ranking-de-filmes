@@ -1,4 +1,4 @@
-O programa usa uma api do Movie Databasepara criar um ranking de filmes em Python com base em critérios como classificação, gênero, data de lançamento, etc. Usando a biblioteca requests.
+O programa usa uma api do Movie Database para oferecer um método ágil de comparar filmes mais bem avaliados no momento, com base em critérios como classificação, gênero e data de lançamento.
 
 Existem duas formar de acessar o programa, sendo a primeira, pelo nevegador, sem a necessidade de instalar outras bibliotecas, apenas usando o link no lado superior direito da tela.
 
